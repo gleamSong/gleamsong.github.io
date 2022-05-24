@@ -1,0 +1,1 @@
+import{_ as e,o as _,c}from"./app.9fa91fbe.js";const r={};function t(n,o){return _(),c("p",null,"\u8DEF\u603B\u662F\u4E00\u6B65\u4E00\u6B65\u8D70\u7684\u561B")}var l=e(r,[["render",t],["__file","\u788E\u8BED-2022-05-22.html.vue"]]);export{l as default};
